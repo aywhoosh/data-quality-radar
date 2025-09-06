@@ -15,7 +15,8 @@ Thumbs.db
 .vscode/
 
 # Streamlit
-.streamlit/
+.streamlit/*
+!.streamlit/config.toml
 
 # Data
 data/*.csv
