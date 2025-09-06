@@ -2,6 +2,9 @@
 
 A beginner-friendly Streamlit app that inspects any CSV, runs quality checks, offers reversible fixes, and generates a short human summary you can paste into a ticket.
 
+[![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+
 ## Features
 - Auto type inference, missingness, duplicate detection, simple outlier flags
 - Reversible fixes with a changelog
