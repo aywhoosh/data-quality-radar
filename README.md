@@ -3,7 +3,7 @@
 A beginner-friendly Streamlit app that inspects any CSV, runs quality checks, offers reversible fixes, and generates a short human summary you can paste into a ticket.
 
 The app is also deployed on Render. You can try it here:-
-👉 [Open Data Quality Radar](https://your-render-url.onrender.com)
+👉 [Open Data Quality Radar](https://data-quality-radar.onrender.com)
 
 ## Features
 - Auto type inference, missingness, duplicate detection, simple outlier flags
