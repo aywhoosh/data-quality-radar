@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.8
+# Optional. If present, the app can export a Great Expectations HTML report
+great_expectations>=0.18.10; python_version>='3.9'

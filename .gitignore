@@ -1,0 +1,23 @@
+@'
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.ipynb_checkpoints/
+*.egg-info/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Data
+data/*.csv
+!data/messy_people.csv
+'@ | Out-File -Encoding utf8 .gitignore
